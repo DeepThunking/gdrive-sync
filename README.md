@@ -112,5 +112,3 @@ pycache/
 * Add more sophisticated logging (e.g., to a file).
 * Allow configuration via a separate config file instead of hardcoding settings.
 * Support for multiple backup profiles/configurations.
-
-## License
