@@ -1,0 +1,9 @@
+{
+    "local_sync_directory": "home/andrew/gdrive_test_local",
+    "drive_sync_folder_name": "MySyncedFilesOOP",
+    "credentials_file": "credentials.json",
+    "token_file": "token.pickle",
+    "sync_direction": "two-way",
+    "conflict_resolution": "newer_wins",
+    "dry_run": true
+}
